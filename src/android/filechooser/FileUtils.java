@@ -16,6 +16,7 @@
 
 package com.ipaulpro.afilechooser.utils;
 
+import com.asternotes.thriftkarma.R;
 import android.content.ContentResolver;
 import android.content.ContentUris;
 import android.content.Context;
