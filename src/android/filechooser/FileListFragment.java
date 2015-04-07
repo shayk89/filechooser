@@ -16,7 +16,7 @@
 
 package com.ipaulpro.afilechooser;
 
-import com.asternotes.thriftkarma.R;
+import com.checklater.asternotes.R;
 import android.app.Activity;
 import android.os.Bundle;
 import android.os.Environment;
