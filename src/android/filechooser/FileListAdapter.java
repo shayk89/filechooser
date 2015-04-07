@@ -16,6 +16,7 @@
 
 package com.ipaulpro.afilechooser;
 
+import com.asternotes.thriftkarma.R
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
