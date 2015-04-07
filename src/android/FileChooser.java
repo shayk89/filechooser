@@ -1,6 +1,6 @@
 package com.cesidiodibenedetto.filechooser;
 
-import com.asternotes.thriftkarma.R
+import com.asternotes.thriftkarma.R;
 import java.util.HashMap;
 import java.util.Map;
 
