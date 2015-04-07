@@ -16,7 +16,7 @@
 
 package com.ipaulpro.afilechooser;
 
-import com.asternotes.thriftkarma.R
+import com.asternotes.thriftkarma.R;
 import android.content.Context;
 import android.os.FileObserver;
 import android.support.v4.content.AsyncTaskLoader;
