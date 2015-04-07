@@ -16,6 +16,7 @@
 
 package com.ipaulpro.afilechooser;
 
+import com.asternotes.thriftkarma.R
 import android.app.ActionBar;
 import android.content.BroadcastReceiver;
 import android.content.Context;
