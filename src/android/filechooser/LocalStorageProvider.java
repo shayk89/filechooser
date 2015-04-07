@@ -1,6 +1,7 @@
 
 package com.ianhanniballake.localstorage;
 
+import com.asternotes.thriftkarma.R;
 import android.content.res.AssetFileDescriptor;
 import android.database.Cursor;
 import android.database.MatrixCursor;
